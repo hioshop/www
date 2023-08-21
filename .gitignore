@@ -128,3 +128,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+docs/.vuepress/.DS_Store
+docs/.DS_Store
